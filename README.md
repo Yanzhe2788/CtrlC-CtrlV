@@ -1,3 +1,4 @@
+Group Name: CtrlC + CtrlV
 # ✈️ Trip Management System
 
 A simple web-based trip planning and management system that allows users to select flights and hotels for various destinations, estimate budgets, and save their selections. An admin panel that need password to log-in is also available to view and manage user submissions.
